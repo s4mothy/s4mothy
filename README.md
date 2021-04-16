@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @s4mothy
+- 👀 Professionally, I’m interested in robotics and robotic process automation. <br>&nbsp;&nbsp;&nbsp;&nbsp; Personally, I'm interested in Magic the Gathering, Dungeons & Dragons, and Minecraft.
+- 🌱 I’m currently learning Computer Science as a student at the University of Minnesota, set to graduate sometime in 2022.
+- 📫 How to reach me: my email is swilliams.cme@gmail.com
